@@ -1,3 +1,6 @@
+//Problem name-World capitalization
+//Problem no-339A
+
 #include <iostream>
 #include <string>
 
