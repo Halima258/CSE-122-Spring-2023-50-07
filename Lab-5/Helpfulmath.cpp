@@ -1,3 +1,7 @@
+//Problem name-Helpful Math
+//Problem no-339A
+
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
